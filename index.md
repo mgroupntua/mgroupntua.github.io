@@ -1,3 +1,8 @@
+---
+layout: post
+title: MGroup stuff
+---
+
 # MGroup
 This library is featuring blah blah...
 
