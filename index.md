@@ -1,3 +1,6 @@
+---
+mathjax: true
+---
 
 # MGroup
 This library is featuring blah blah...
