@@ -1,9 +1,7 @@
 title: MGroup
 email: info@mgroup.ntua.gr
 description: > # this means to ignore newlines until "baseurl:"
-  MGroup is a research lab specialized in computational mechanics problems,
-situated in the National Technical University of Athens, at the school of
-Civil Engineering.
+  MGroup is a research lab specialized in computational mechanics problems, situated in the National Technical University of Athens, at the school of Civil Engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "" # the base hostname & protocol for your site
