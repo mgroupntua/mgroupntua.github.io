@@ -1,5 +1,5 @@
 ---
-permalink: contributing.html
+title: Contributing
 ---
 
 # How to contribute
