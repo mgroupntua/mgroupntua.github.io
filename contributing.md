@@ -1,6 +1,3 @@
----
-title: Contributing
----
 
 # How to contribute
 MGroup is striving to write code related to the solution of computational mechanics and simulations, of utmost quality and performance. Since this code reflects all of the research work being done in the MGroup lab, all of the repos are being constantly updated. We want to make make contributing to this project as easy and transparent as possible, but there is more work to be done. Hopefully this document makes the process for contributing clear and answers some questions that you may have.
