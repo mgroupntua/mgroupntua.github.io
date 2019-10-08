@@ -29,7 +29,7 @@ Below, you can find a list of codes that are under active development but are ei
 ## MSolve.Solvers
 
 # How to contribute
-Please check our guide found [here](docs/contributing.md) as to how you can contribute to our efforts.
+Please check our guide found [here](contributing.md) as to how you can contribute to our efforts.
 
 
 
