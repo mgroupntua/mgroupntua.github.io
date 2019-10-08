@@ -2,7 +2,7 @@ title: MGroup
 email: info@mgroup.ntua.gr
 description: > # this means to ignore newlines until "baseurl:"
   Computational mechanics lab
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/pages" # the subpath of your site, e.g. /blog
 
 url: "" # the base hostname & protocol for your site
 
